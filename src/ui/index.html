@@ -514,6 +514,11 @@
         let isListening = false;
         let isLoading = false;
 
+        // Session Management
+        const sessionId = sessionStorage.getItem('tp_session_id') ||
+            `sess_${Date.now()}_${Math.random().toString(36).substring(2, 9)}`;
+        sessionStorage.setItem('tp_session_id', sessionId);
+
         const DAY_COLORS = ['#2563eb', '#ef4444', '#10b981', '#a855f7'];
 
         // Speech Configuration
@@ -836,7 +841,10 @@
                 const res = await fetch('/api/message', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ message: text })
+                    body: JSON.stringify({
+                        message: text,
+                        sessionId: sessionId
+                    })
                 });
                 const data = await res.json();
                 appendLog(data.text || data.error, 'ai', data.citation);

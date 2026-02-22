@@ -16,15 +16,22 @@ import { getRagForItinerary } from './rag/guards';
 import { ragService } from './rag/service';
 import { recalculateDaySchedule } from './utils/itineraryHelper';
 
-// --- In-Memory State ---
-let context: ConversationContext = {
-    mode: 'IDLE',
-    constraints: {},
-    missing_critical_slots: [],
-    assumptions: {},
-    history: [],
-    itinerary_version: 0
-};
+// --- In-Memory Session Store ---
+const sessions: Record<string, ConversationContext> = {};
+
+function getOrCreateContext(sessionId: string): ConversationContext {
+    if (!sessions[sessionId]) {
+        sessions[sessionId] = {
+            mode: 'IDLE',
+            constraints: {},
+            missing_critical_slots: [],
+            assumptions: {},
+            history: [],
+            itinerary_version: 0
+        };
+    }
+    return sessions[sessionId];
+}
 
 /**
  * Task 1 & 2: Canonical Header Builder
@@ -83,8 +90,15 @@ app.post('/api/send-email', async (req, res) => {
 
 app.post('/api/message', async (req, res) => {
     try {
-        const userInput = req.body.message;
-        console.log(`\n📩 User: "${userInput}"`);
+        const { message: userInput, sessionId } = req.body;
+
+        if (!sessionId) {
+            res.status(400).json({ error: "Session ID is required" });
+            return;
+        }
+
+        const context = getOrCreateContext(sessionId);
+        console.log(`\n📩 [Session: ${sessionId}] User: "${userInput}"`);
 
         context.history.push({ role: 'user', content: userInput, timestamp: Date.now() });
 
@@ -218,7 +232,9 @@ app.post('/api/message', async (req, res) => {
             const newDuration = extraction.slots?.duration_days;
             const newPace = extraction.slots?.pace;
 
-            if (hadItinerary) {
+            const isFreshRequested = userInput.toLowerCase().match(/fresh|new|another|regenerate|re-plan|reset|start over/);
+
+            if (hadItinerary && !isFreshRequested) {
                 const isDurationIdentical = (newDuration !== undefined && newDuration !== null && newDuration === prevDuration);
                 const isPaceIdentical = (newPace !== undefined && newPace !== null && newPace === prevPace);
 
