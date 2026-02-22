@@ -1,0 +1,3062 @@
+[
+  {
+    "id": "osm_node_356480185",
+    "name": "Sunset Point",
+    "category": "attraction",
+    "city": "Udaipur",
+    "lat": 24.5690255,
+    "lon": 73.6838528,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/356480185",
+      "osm_id": "node/356480185"
+    }
+  },
+  {
+    "id": "osm_node_655410653",
+    "name": "Ambrai Restaurant",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5781623,
+    "lon": 73.6800374,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/655410653",
+      "osm_id": "node/655410653"
+    }
+  },
+  {
+    "id": "osm_node_936651777",
+    "name": "City Palace",
+    "category": "museum",
+    "city": "Udaipur",
+    "lat": 24.5764662,
+    "lon": 73.6835836,
+    "opening_hours": "Mo-Su 09:30-21:00",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/936651777",
+      "osm_id": "node/936651777"
+    }
+  },
+  {
+    "id": "osm_node_1030663736",
+    "name": "Cafe Edelweiss",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.5802202,
+    "lon": 73.6823586,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/1030663736",
+      "osm_id": "node/1030663736"
+    }
+  },
+  {
+    "id": "osm_node_1248264731",
+    "name": "Bharatiya Lok Kala Museum",
+    "category": "museum",
+    "city": "Udaipur",
+    "lat": 24.5943478,
+    "lon": 73.6917088,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/1248264731",
+      "osm_id": "node/1248264731"
+    }
+  },
+  {
+    "id": "osm_node_1248317767",
+    "name": "Kishan Pol",
+    "category": "heritage",
+    "city": "Udaipur",
+    "lat": 24.5674697,
+    "lon": 73.6918005,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/1248317767",
+      "osm_id": "node/1248317767"
+    }
+  },
+  {
+    "id": "osm_node_1248564074",
+    "name": "Hathi Pol (Elephant Gate)",
+    "category": "heritage",
+    "city": "Udaipur",
+    "lat": 24.5867389,
+    "lon": 73.6875335,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/1248564074",
+      "osm_id": "node/1248564074"
+    }
+  },
+  {
+    "id": "osm_node_1268700265",
+    "name": "Chand Pol",
+    "category": "heritage",
+    "city": "Udaipur",
+    "lat": 24.5826417,
+    "lon": 73.6819528,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/1268700265",
+      "osm_id": "node/1268700265"
+    }
+  },
+  {
+    "id": "osm_node_1268700268",
+    "name": "Daiji Bridge Pol",
+    "category": "heritage",
+    "city": "Udaipur",
+    "lat": 24.5811637,
+    "lon": 73.6816687,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/1268700268",
+      "osm_id": "node/1268700268"
+    }
+  },
+  {
+    "id": "osm_node_2235563686",
+    "name": "Lake View",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5800016,
+    "lon": 73.6830934,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/2235563686",
+      "osm_id": "node/2235563686"
+    }
+  },
+  {
+    "id": "osm_node_2235563720",
+    "name": "Neelam",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5800999,
+    "lon": 73.6830695,
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/2235563720",
+      "osm_id": "node/2235563720"
+    }
+  },
+  {
+    "id": "osm_node_2377178388",
+    "name": "Om Sai Ram",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5663667,
+    "lon": 73.6850341,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/2377178388",
+      "osm_id": "node/2377178388"
+    }
+  },
+  {
+    "id": "osm_node_2595261674",
+    "name": "Café Namaste & Natural City View",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.5802766,
+    "lon": 73.6825633,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/2595261674",
+      "osm_id": "node/2595261674"
+    }
+  },
+  {
+    "id": "osm_node_2595261675",
+    "name": "The Little Prince",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.5802247,
+    "lon": 73.6791086,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/2595261675",
+      "osm_id": "node/2595261675"
+    }
+  },
+  {
+    "id": "osm_node_2595261676",
+    "name": "Kitchen of Mewar",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5810871,
+    "lon": 73.6802524,
+    "opening_hours": "Mo-Su 08:30-22:30",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/2595261676",
+      "osm_id": "node/2595261676"
+    }
+  },
+  {
+    "id": "osm_node_2601473827",
+    "name": "Hari Garh Restaurant",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5796738,
+    "lon": 73.6803155,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/2601473827",
+      "osm_id": "node/2601473827"
+    }
+  },
+  {
+    "id": "osm_node_2927263205",
+    "name": "Puskar Café",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.5806329,
+    "lon": 73.6825118,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/2927263205",
+      "osm_id": "node/2927263205"
+    }
+  },
+  {
+    "id": "osm_node_3231569344",
+    "name": "Natraj Dining Hall",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5720379,
+    "lon": 73.6996002,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/3231569344",
+      "osm_id": "node/3231569344"
+    }
+  },
+  {
+    "id": "osm_node_3231570959",
+    "name": "Natraj",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5838464,
+    "lon": 73.6980074,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/3231570959",
+      "osm_id": "node/3231570959"
+    }
+  },
+  {
+    "id": "osm_node_3231677091",
+    "name": "Neemach Mata Mandir",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.6130499,
+    "lon": 73.6759369,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/3231677091",
+      "osm_id": "node/3231677091"
+    }
+  },
+  {
+    "id": "osm_node_3233774373",
+    "name": "Cafe Coffee Day",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.5971211,
+    "lon": 73.6883043,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/3233774373",
+      "osm_id": "node/3233774373"
+    }
+  },
+  {
+    "id": "osm_node_3234257854",
+    "name": "Gangaur Ghat",
+    "category": "attraction",
+    "city": "Udaipur",
+    "lat": 24.5799938,
+    "lon": 73.6819466,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/3234257854",
+      "osm_id": "node/3234257854"
+    }
+  },
+  {
+    "id": "osm_node_3234262295",
+    "name": "Parmeshwara",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.6099217,
+    "lon": 73.679825,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/3234262295",
+      "osm_id": "node/3234262295"
+    }
+  },
+  {
+    "id": "osm_node_3269249896",
+    "name": "Black Pepper",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5807045,
+    "lon": 73.6826333,
+    "opening_hours": "PH,Mo-Su 08:00-22:00",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/3269249896",
+      "osm_id": "node/3269249896"
+    }
+  },
+  {
+    "id": "osm_node_3269254388",
+    "name": "Sunset viewpoint",
+    "category": "viewpoint",
+    "city": "Udaipur",
+    "lat": 24.5775361,
+    "lon": 73.6795582,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/3269254388",
+      "osm_id": "node/3269254388"
+    }
+  },
+  {
+    "id": "osm_node_3270062578",
+    "name": "Jaiwana Haveli",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5792172,
+    "lon": 73.6825615,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/3270062578",
+      "osm_id": "node/3270062578"
+    }
+  },
+  {
+    "id": "osm_node_3273037673",
+    "name": "Gokul Roof Top",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5807377,
+    "lon": 73.6821905,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/3273037673",
+      "osm_id": "node/3273037673"
+    }
+  },
+  {
+    "id": "osm_node_3776176712",
+    "name": "Chowpati",
+    "category": "street_food",
+    "city": "Udaipur",
+    "lat": 24.6010455,
+    "lon": 73.6905645,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/3776176712",
+      "osm_id": "node/3776176712"
+    }
+  },
+  {
+    "id": "osm_node_3776199882",
+    "name": "Moti Magri Memorial",
+    "category": "heritage",
+    "city": "Udaipur",
+    "lat": 24.6001998,
+    "lon": 73.6805131,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/3776199882",
+      "osm_id": "node/3776199882"
+    }
+  },
+  {
+    "id": "osm_node_3776199883",
+    "name": "1559 AD",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5929907,
+    "lon": 73.6813862,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/3776199883",
+      "osm_id": "node/3776199883"
+    }
+  },
+  {
+    "id": "osm_node_3776199886",
+    "name": "Mosque",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5903424,
+    "lon": 73.689626,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/3776199886",
+      "osm_id": "node/3776199886"
+    }
+  },
+  {
+    "id": "osm_node_3898009271",
+    "name": "Vintage and Classic Car Collection",
+    "category": "museum",
+    "city": "Udaipur",
+    "lat": 24.576052,
+    "lon": 73.6945317,
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/3898009271",
+      "osm_id": "node/3898009271"
+    }
+  },
+  {
+    "id": "osm_node_3900209158",
+    "name": "Tribute",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5846843,
+    "lon": 73.6805017,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/3900209158",
+      "osm_id": "node/3900209158"
+    }
+  },
+  {
+    "id": "osm_node_3982124075",
+    "name": "Chhoti Shitla Mata Mandir",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.582429,
+    "lon": 73.688652,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/3982124075",
+      "osm_id": "node/3982124075"
+    }
+  },
+  {
+    "id": "osm_node_4040275725",
+    "name": "Jasmine restaurant",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5816812,
+    "lon": 73.680952,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/4040275725",
+      "osm_id": "node/4040275725"
+    }
+  },
+  {
+    "id": "osm_node_4082531631",
+    "name": "Govinda's cafeteria",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.57884,
+    "lon": 73.6838471,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/4082531631",
+      "osm_id": "node/4082531631"
+    }
+  },
+  {
+    "id": "osm_node_4086028175",
+    "name": "Satori",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.5809577,
+    "lon": 73.6821532,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/4086028175",
+      "osm_id": "node/4086028175"
+    }
+  },
+  {
+    "id": "osm_node_4086293817",
+    "name": "Jheel's Ginger Coffee Bar & Bakery",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.5807917,
+    "lon": 73.6818487,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/4086293817",
+      "osm_id": "node/4086293817"
+    }
+  },
+  {
+    "id": "osm_node_4404101972",
+    "name": "Vasudev Dudh Bhandar",
+    "category": "street_food",
+    "city": "Udaipur",
+    "lat": 24.5794005,
+    "lon": 73.6946033,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/4404101972",
+      "osm_id": "node/4404101972"
+    }
+  },
+  {
+    "id": "osm_node_4464363793",
+    "name": "Mewar Haveli & Restaurant",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5794688,
+    "lon": 73.6825925,
+    "opening_hours": "24/7",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/4464363793",
+      "osm_id": "node/4464363793"
+    }
+  },
+  {
+    "id": "osm_node_4524677791",
+    "name": "Gateway",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5788881,
+    "lon": 73.683713,
+    "opening_hours": "Mo-Su 10:00-22:30",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/4524677791",
+      "osm_id": "node/4524677791"
+    }
+  },
+  {
+    "id": "osm_node_4535330191",
+    "name": "Jhumar Lake-View Restaurant",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5922147,
+    "lon": 73.6718949,
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/4535330191",
+      "osm_id": "node/4535330191"
+    }
+  },
+  {
+    "id": "osm_node_4574675090",
+    "name": "Rainbow Restaurant",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5788816,
+    "lon": 73.6824168,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/4574675090",
+      "osm_id": "node/4574675090"
+    }
+  },
+  {
+    "id": "osm_node_4575802097",
+    "name": "Flavours - Roof Top Restaurant",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5787314,
+    "lon": 73.6825409,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/4575802097",
+      "osm_id": "node/4575802097"
+    }
+  },
+  {
+    "id": "osm_node_4585260592",
+    "name": "Cafe Satori",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.5808599,
+    "lon": 73.6822428,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/4585260592",
+      "osm_id": "node/4585260592"
+    }
+  },
+  {
+    "id": "osm_node_4706274490",
+    "name": "Lotus Cafe",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5787919,
+    "lon": 73.684949,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/4706274490",
+      "osm_id": "node/4706274490"
+    }
+  },
+  {
+    "id": "osm_node_4706661592",
+    "name": "Chirag Roof Top Restaurant",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5818106,
+    "lon": 73.6817846,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/4706661592",
+      "osm_id": "node/4706661592"
+    }
+  },
+  {
+    "id": "osm_node_4706665290",
+    "name": "Bridge Corner",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5825655,
+    "lon": 73.681114,
+    "opening_hours": "Mo-Su 09:00-22:00",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/4706665290",
+      "osm_id": "node/4706665290"
+    }
+  },
+  {
+    "id": "osm_node_4716726290",
+    "name": "कुल कैफे",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.5805948,
+    "lon": 73.6825611,
+    "opening_hours": "Mo-Su 06:00-23:00",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/4716726290",
+      "osm_id": "node/4716726290"
+    }
+  },
+  {
+    "id": "osm_node_4730164689",
+    "name": "Yummy Yoga",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5810261,
+    "lon": 73.6799113,
+    "opening_hours": "Mo-Su 08:59-22:30",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/4730164689",
+      "osm_id": "node/4730164689"
+    }
+  },
+  {
+    "id": "osm_node_4830843929",
+    "name": "Lake Shore",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.58009,
+    "lon": 73.680422,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/4830843929",
+      "osm_id": "node/4830843929"
+    }
+  },
+  {
+    "id": "osm_node_4830850421",
+    "name": "Jagmandir Palace",
+    "category": "heritage",
+    "city": "Udaipur",
+    "lat": 24.5676448,
+    "lon": 73.6785389,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/4830850421",
+      "osm_id": "node/4830850421"
+    }
+  },
+  {
+    "id": "osm_node_5058639430",
+    "name": "Mulla Talai Mosque",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5855735,
+    "lon": 73.668361,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/5058639430",
+      "osm_id": "node/5058639430"
+    }
+  },
+  {
+    "id": "osm_node_5068266009",
+    "name": "Raajwada",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5873903,
+    "lon": 73.7121276,
+    "opening_hours": "Mo-Su 07:00-23:00",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/5068266009",
+      "osm_id": "node/5068266009"
+    }
+  },
+  {
+    "id": "osm_node_5177308823",
+    "name": "Doctor Cafe",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5795616,
+    "lon": 73.6828439,
+    "opening_hours": "Mo-Su 09:00-00:00",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/5177308823",
+      "osm_id": "node/5177308823"
+    }
+  },
+  {
+    "id": "osm_node_5228552134",
+    "name": "Lal Ghat",
+    "category": "attraction",
+    "city": "Udaipur",
+    "lat": 24.5789237,
+    "lon": 73.6822604,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/5228552134",
+      "osm_id": "node/5228552134"
+    }
+  },
+  {
+    "id": "osm_node_5237960054",
+    "name": "Sunset View",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5809393,
+    "lon": 73.6818026,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/5237960054",
+      "osm_id": "node/5237960054"
+    }
+  },
+  {
+    "id": "osm_node_5444455921",
+    "name": "Best Local",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5823447,
+    "lon": 73.6796582,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/5444455921",
+      "osm_id": "node/5444455921"
+    }
+  },
+  {
+    "id": "osm_node_5448317526",
+    "name": "Just eat corner",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5822417,
+    "lon": 73.6795509,
+    "opening_hours": "Mo-Su 06:00-23:00",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/5448317526",
+      "osm_id": "node/5448317526"
+    }
+  },
+  {
+    "id": "osm_node_5522826496",
+    "name": "Poonam Haveli",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.579998,
+    "lon": 73.6829165,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/5522826496",
+      "osm_id": "node/5522826496"
+    }
+  },
+  {
+    "id": "osm_node_5940536886",
+    "name": "Melange Restro and cafe",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5927571,
+    "lon": 73.6655332,
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/5940536886",
+      "osm_id": "node/5940536886"
+    }
+  },
+  {
+    "id": "osm_node_6065654185",
+    "name": "café la comida",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.5801597,
+    "lon": 73.6831175,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/6065654185",
+      "osm_id": "node/6065654185"
+    }
+  },
+  {
+    "id": "osm_node_6097894285",
+    "name": "Sabor World Cuisine",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5884532,
+    "lon": 73.6517924,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/6097894285",
+      "osm_id": "node/6097894285"
+    }
+  },
+  {
+    "id": "osm_node_6191607738",
+    "name": "Fusion Business Solutions Pvt. Ltd.",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5532205,
+    "lon": 73.7324365,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/6191607738",
+      "osm_id": "node/6191607738"
+    }
+  },
+  {
+    "id": "osm_node_6239290087",
+    "name": "109 Cafe",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.5804676,
+    "lon": 73.6827167,
+    "opening_hours": "Mo-Sa 09:00-08:30; Su 09:00-09:00",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/6239290087",
+      "osm_id": "node/6239290087"
+    }
+  },
+  {
+    "id": "osm_node_6315615193",
+    "name": "City Club Restrobar",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5848881,
+    "lon": 73.696522,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/6315615193",
+      "osm_id": "node/6315615193"
+    }
+  },
+  {
+    "id": "osm_node_6412623545",
+    "name": "Mewar Restaurant",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5910659,
+    "lon": 73.6526723,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/6412623545",
+      "osm_id": "node/6412623545"
+    }
+  },
+  {
+    "id": "osm_node_6414392488",
+    "name": "Lots of cheap local food (very local vibes)",
+    "category": "street_food",
+    "city": "Udaipur",
+    "lat": 24.6005951,
+    "lon": 73.691033,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/6414392488",
+      "osm_id": "node/6414392488"
+    }
+  },
+  {
+    "id": "osm_node_6509321885",
+    "name": "GoodDO",
+    "category": "street_food",
+    "city": "Udaipur",
+    "lat": 24.6002136,
+    "lon": 73.6906502,
+    "opening_hours": "Mo-Th 09:00-22:00; Fr-Su 13:00-02:00",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/6509321885",
+      "osm_id": "node/6509321885"
+    }
+  },
+  {
+    "id": "osm_node_6687057486",
+    "name": "Ambrai Ghat",
+    "category": "attraction",
+    "city": "Udaipur",
+    "lat": 24.5777259,
+    "lon": 73.6799321,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/6687057486",
+      "osm_id": "node/6687057486"
+    }
+  },
+  {
+    "id": "osm_node_6698608887",
+    "name": "Ungles John Pizza",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5869285,
+    "lon": 73.6860301,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/6698608887",
+      "osm_id": "node/6698608887"
+    }
+  },
+  {
+    "id": "osm_node_6698816687",
+    "name": "Mayur Cafe",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5796161,
+    "lon": 73.684268,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/6698816687",
+      "osm_id": "node/6698816687"
+    }
+  },
+  {
+    "id": "osm_node_7211821285",
+    "name": "Shri Manshapurna Karni Mata Temple",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5660422,
+    "lon": 73.6892482,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/7211821285",
+      "osm_id": "node/7211821285"
+    }
+  },
+  {
+    "id": "osm_node_7211855085",
+    "name": "पाला गणेश मन्दिर",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5745097,
+    "lon": 73.6880975,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/7211855085",
+      "osm_id": "node/7211855085"
+    }
+  },
+  {
+    "id": "osm_node_7243883096",
+    "name": "Natural View Restaurant",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5790995,
+    "lon": 73.6824239,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/7243883096",
+      "osm_id": "node/7243883096"
+    }
+  },
+  {
+    "id": "osm_node_7265626086",
+    "name": "Hanuman Ghat Temple",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5807885,
+    "lon": 73.6803366,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/7265626086",
+      "osm_id": "node/7265626086"
+    }
+  },
+  {
+    "id": "osm_node_7332544334",
+    "name": "Sunset Terrace",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5754521,
+    "lon": 73.6830161,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/7332544334",
+      "osm_id": "node/7332544334"
+    }
+  },
+  {
+    "id": "osm_node_7332544385",
+    "name": "Palki Khana",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5763387,
+    "lon": 73.683904,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/7332544385",
+      "osm_id": "node/7332544385"
+    }
+  },
+  {
+    "id": "osm_node_7332544542",
+    "name": "Bagore-ki-Haveli",
+    "category": "heritage",
+    "city": "Udaipur",
+    "lat": 24.5797365,
+    "lon": 73.6823966,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/7332544542",
+      "osm_id": "node/7332544542"
+    }
+  },
+  {
+    "id": "osm_node_7360406248",
+    "name": "Chunda Palace",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5934926,
+    "lon": 73.6395872,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/7360406248",
+      "osm_id": "node/7360406248"
+    }
+  },
+  {
+    "id": "osm_node_8581643556",
+    "name": "Ganesha Bhojnalay",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.575335,
+    "lon": 73.6999094,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/8581643556",
+      "osm_id": "node/8581643556"
+    }
+  },
+  {
+    "id": "osm_node_8879476868",
+    "name": "Blendz Cafe",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.6014971,
+    "lon": 73.6873852,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/8879476868",
+      "osm_id": "node/8879476868"
+    }
+  },
+  {
+    "id": "osm_node_10214436014",
+    "name": "Udaipur Traditional restaurant",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.6015358,
+    "lon": 73.6639779,
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/10214436014",
+      "osm_id": "node/10214436014"
+    }
+  },
+  {
+    "id": "osm_node_10264335409",
+    "name": "आर के सर्किल",
+    "category": "heritage",
+    "city": "Udaipur",
+    "lat": 24.6070549,
+    "lon": 73.6997474,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/10264335409",
+      "osm_id": "node/10264335409"
+    }
+  },
+  {
+    "id": "osm_node_10628600805",
+    "name": "Bohra Ganesh",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5892988,
+    "lon": 73.7306125,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/10628600805",
+      "osm_id": "node/10628600805"
+    }
+  },
+  {
+    "id": "osm_node_10651421005",
+    "name": "Sailani Cafe",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5793686,
+    "lon": 73.6781228,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/10651421005",
+      "osm_id": "node/10651421005"
+    }
+  },
+  {
+    "id": "osm_node_10881009914",
+    "name": "Millets of Mewar",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5793215,
+    "lon": 73.6838279,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/10881009914",
+      "osm_id": "node/10881009914"
+    }
+  },
+  {
+    "id": "osm_node_10881016628",
+    "name": "Khamma Ghani",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5856083,
+    "lon": 73.6806712,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/10881016628",
+      "osm_id": "node/10881016628"
+    }
+  },
+  {
+    "id": "osm_node_10881017858",
+    "name": "Brahma Kamal",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5887694,
+    "lon": 73.6825521,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/10881017858",
+      "osm_id": "node/10881017858"
+    }
+  },
+  {
+    "id": "osm_node_10899252562",
+    "name": "Bansi Ghat",
+    "category": "attraction",
+    "city": "Udaipur",
+    "lat": 24.5753203,
+    "lon": 73.6828525,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/10899252562",
+      "osm_id": "node/10899252562"
+    }
+  },
+  {
+    "id": "osm_node_10992702591",
+    "name": "marvadi bhojnalaya",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5795543,
+    "lon": 73.6849495,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/10992702591",
+      "osm_id": "node/10992702591"
+    }
+  },
+  {
+    "id": "osm_node_11134970948",
+    "name": "mocha cafe udaipur",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5959055,
+    "lon": 73.6940794,
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/11134970948",
+      "osm_id": "node/11134970948"
+    }
+  },
+  {
+    "id": "osm_node_11393510842",
+    "name": "Royal Rasoi, Udaipur",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5957472,
+    "lon": 73.6888511,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/11393510842",
+      "osm_id": "node/11393510842"
+    }
+  },
+  {
+    "id": "osm_node_11535054673",
+    "name": "Akhada Ghat",
+    "category": "attraction",
+    "city": "Udaipur",
+    "lat": 24.5760448,
+    "lon": 73.6826544,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/11535054673",
+      "osm_id": "node/11535054673"
+    }
+  },
+  {
+    "id": "osm_node_11561153364",
+    "name": "Pipli Ghat",
+    "category": "attraction",
+    "city": "Udaipur",
+    "lat": 24.5775034,
+    "lon": 73.6823858,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/11561153364",
+      "osm_id": "node/11561153364"
+    }
+  },
+  {
+    "id": "osm_node_11561153365",
+    "name": "Roop Ghat",
+    "category": "attraction",
+    "city": "Udaipur",
+    "lat": 24.5772296,
+    "lon": 73.6823945,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/11561153365",
+      "osm_id": "node/11561153365"
+    }
+  },
+  {
+    "id": "osm_node_11561214192",
+    "name": "Nav Ghat",
+    "category": "attraction",
+    "city": "Udaipur",
+    "lat": 24.5780376,
+    "lon": 73.6824059,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/11561214192",
+      "osm_id": "node/11561214192"
+    }
+  },
+  {
+    "id": "osm_node_11753076501",
+    "name": "Tapri Niwas",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.6024911,
+    "lon": 73.6899706,
+    "opening_hours": "Mo-Su 08:00-22:45",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/11753076501",
+      "osm_id": "node/11753076501"
+    }
+  },
+  {
+    "id": "osm_node_11753076502",
+    "name": "Tapri Satsang",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.6199537,
+    "lon": 73.7205477,
+    "opening_hours": "Mo-Su 12:30-20:30",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/11753076502",
+      "osm_id": "node/11753076502"
+    }
+  },
+  {
+    "id": "osm_node_12182034814",
+    "name": "House of Gourmet- HOG",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5963893,
+    "lon": 73.6907433,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12182034814",
+      "osm_id": "node/12182034814"
+    }
+  },
+  {
+    "id": "osm_node_12182162223",
+    "name": "The Biq Pot",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.579139,
+    "lon": 73.6712807,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12182162223",
+      "osm_id": "node/12182162223"
+    }
+  },
+  {
+    "id": "osm_node_12182162227",
+    "name": "Mohan Mandir",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5790983,
+    "lon": 73.6812758,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12182162227",
+      "osm_id": "node/12182162227"
+    }
+  },
+  {
+    "id": "osm_node_12289977801",
+    "name": "Royal Ship Restaurant",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.6282847,
+    "lon": 73.6383321,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12289977801",
+      "osm_id": "node/12289977801"
+    }
+  },
+  {
+    "id": "osm_node_12289995102",
+    "name": "Mile Stone Restaurant",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.627021,
+    "lon": 73.6419367,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12289995102",
+      "osm_id": "node/12289995102"
+    }
+  },
+  {
+    "id": "osm_node_12290199001",
+    "name": "मेवाड़ रेस्टोरेंट",
+    "category": "street_food",
+    "city": "Udaipur",
+    "lat": 24.6269662,
+    "lon": 73.6418053,
+    "opening_hours": "Mo-Su 09:00-20:00",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12290199001",
+      "osm_id": "node/12290199001"
+    }
+  },
+  {
+    "id": "osm_node_12290316201",
+    "name": "Country Side Cafe",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.6275705,
+    "lon": 73.6408759,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12290316201",
+      "osm_id": "node/12290316201"
+    }
+  },
+  {
+    "id": "osm_node_12400538979",
+    "name": "La Mafiya",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5506834,
+    "lon": 73.6946945,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12400538979",
+      "osm_id": "node/12400538979"
+    }
+  },
+  {
+    "id": "osm_node_12402760745",
+    "name": "Rasoi",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5531353,
+    "lon": 73.694665,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12402760745",
+      "osm_id": "node/12402760745"
+    }
+  },
+  {
+    "id": "osm_node_12409667804",
+    "name": "Radha Krishna",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5794923,
+    "lon": 73.6839415,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12409667804",
+      "osm_id": "node/12409667804"
+    }
+  },
+  {
+    "id": "osm_node_12409668603",
+    "name": "Sindhi Khana Khazana",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5822882,
+    "lon": 73.6794536,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12409668603",
+      "osm_id": "node/12409668603"
+    }
+  },
+  {
+    "id": "osm_node_12409668605",
+    "name": "Sun N Moon",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5802421,
+    "lon": 73.683025,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12409668605",
+      "osm_id": "node/12409668605"
+    }
+  },
+  {
+    "id": "osm_node_12409668803",
+    "name": "Mavi",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.5807965,
+    "lon": 73.6822585,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12409668803",
+      "osm_id": "node/12409668803"
+    }
+  },
+  {
+    "id": "osm_node_12409668901",
+    "name": "Lake Street",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5821232,
+    "lon": 73.6797871,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12409668901",
+      "osm_id": "node/12409668901"
+    }
+  },
+  {
+    "id": "osm_node_12409669004",
+    "name": "Vyom Cafe",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.580019,
+    "lon": 73.6833781,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12409669004",
+      "osm_id": "node/12409669004"
+    }
+  },
+  {
+    "id": "osm_node_12409782501",
+    "name": "Eat Out",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5836523,
+    "lon": 73.696513,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12409782501",
+      "osm_id": "node/12409782501"
+    }
+  },
+  {
+    "id": "osm_node_12412773404",
+    "name": "masala chowk",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5741445,
+    "lon": 73.6878861,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12412773404",
+      "osm_id": "node/12412773404"
+    }
+  },
+  {
+    "id": "osm_node_12412773413",
+    "name": "Shree Vinayak",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5799759,
+    "lon": 73.6843221,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12412773413",
+      "osm_id": "node/12412773413"
+    }
+  },
+  {
+    "id": "osm_node_12412773606",
+    "name": "Anna",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5800218,
+    "lon": 73.6843349,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12412773606",
+      "osm_id": "node/12412773606"
+    }
+  },
+  {
+    "id": "osm_node_12412773703",
+    "name": "Amritsariyat",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5737432,
+    "lon": 73.686865,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12412773703",
+      "osm_id": "node/12412773703"
+    }
+  },
+  {
+    "id": "osm_node_12412773705",
+    "name": "Royal Cafe",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5778641,
+    "lon": 73.6851942,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12412773705",
+      "osm_id": "node/12412773705"
+    }
+  },
+  {
+    "id": "osm_node_12415411402",
+    "name": "Funky Bunky",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5810438,
+    "lon": 73.679979,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12415411402",
+      "osm_id": "node/12415411402"
+    }
+  },
+  {
+    "id": "osm_node_12415411501",
+    "name": "Cafe Helsinki",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5809962,
+    "lon": 73.6802165,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12415411501",
+      "osm_id": "node/12415411501"
+    }
+  },
+  {
+    "id": "osm_node_12416831504",
+    "name": "sunset viewpoint",
+    "category": "viewpoint",
+    "city": "Udaipur",
+    "lat": 24.6311798,
+    "lon": 73.6699365,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12416831504",
+      "osm_id": "node/12416831504"
+    }
+  },
+  {
+    "id": "osm_node_12422136301",
+    "name": "a lot of streetfood stalls here",
+    "category": "street_food",
+    "city": "Udaipur",
+    "lat": 24.5970118,
+    "lon": 73.681481,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12422136301",
+      "osm_id": "node/12422136301"
+    }
+  },
+  {
+    "id": "osm_node_12422505805",
+    "name": "Foodiz",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.5791869,
+    "lon": 73.6798306,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12422505805",
+      "osm_id": "node/12422505805"
+    }
+  },
+  {
+    "id": "osm_node_12422505817",
+    "name": "Temple Shree Sardar Swarup Shyam Ji",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5775489,
+    "lon": 73.6797893,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12422505817",
+      "osm_id": "node/12422505817"
+    }
+  },
+  {
+    "id": "osm_node_12422505902",
+    "name": "Blue Moon",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5791535,
+    "lon": 73.6802073,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12422505902",
+      "osm_id": "node/12422505902"
+    }
+  },
+  {
+    "id": "osm_node_12422506902",
+    "name": "ghat",
+    "category": "attraction",
+    "city": "Udaipur",
+    "lat": 24.5809566,
+    "lon": 73.6817008,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12422506902",
+      "osm_id": "node/12422506902"
+    }
+  },
+  {
+    "id": "osm_node_12422507011",
+    "name": "Temple Shree Hanuman Ji",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5777409,
+    "lon": 73.6797409,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12422507011",
+      "osm_id": "node/12422507011"
+    }
+  },
+  {
+    "id": "osm_node_12422996904",
+    "name": "Lago",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.580724,
+    "lon": 73.6819153,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12422996904",
+      "osm_id": "node/12422996904"
+    }
+  },
+  {
+    "id": "osm_node_12422997004",
+    "name": "Green Grotto",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.5802015,
+    "lon": 73.6820595,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12422997004",
+      "osm_id": "node/12422997004"
+    }
+  },
+  {
+    "id": "osm_node_12422997005",
+    "name": "Corner Cafe",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5810743,
+    "lon": 73.6819402,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12422997005",
+      "osm_id": "node/12422997005"
+    }
+  },
+  {
+    "id": "osm_node_12422999902",
+    "name": "Mannat",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5827226,
+    "lon": 73.6812251,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12422999902",
+      "osm_id": "node/12422999902"
+    }
+  },
+  {
+    "id": "osm_node_12423064401",
+    "name": "Galaxy",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5809764,
+    "lon": 73.6801398,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12423064401",
+      "osm_id": "node/12423064401"
+    }
+  },
+  {
+    "id": "osm_node_12424650212",
+    "name": "Bunty Egg Omelette",
+    "category": "street_food",
+    "city": "Udaipur",
+    "lat": 24.5777932,
+    "lon": 73.6980694,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12424650212",
+      "osm_id": "node/12424650212"
+    }
+  },
+  {
+    "id": "osm_node_12424650228",
+    "name": "Natural Lake View",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5802454,
+    "lon": 73.6827981,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12424650228",
+      "osm_id": "node/12424650228"
+    }
+  },
+  {
+    "id": "osm_node_12424650229",
+    "name": "Namaste",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.580443,
+    "lon": 73.6825863,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12424650229",
+      "osm_id": "node/12424650229"
+    }
+  },
+  {
+    "id": "osm_node_12424650230",
+    "name": "The Village",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5806219,
+    "lon": 73.6824533,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12424650230",
+      "osm_id": "node/12424650230"
+    }
+  },
+  {
+    "id": "osm_node_12424650241",
+    "name": "Mumal",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5754662,
+    "lon": 73.6916359,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12424650241",
+      "osm_id": "node/12424650241"
+    }
+  },
+  {
+    "id": "osm_node_12424701801",
+    "name": "R.K. Chinese",
+    "category": "street_food",
+    "city": "Udaipur",
+    "lat": 24.5845425,
+    "lon": 73.6966867,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12424701801",
+      "osm_id": "node/12424701801"
+    }
+  },
+  {
+    "id": "osm_node_12424701805",
+    "name": "Bari Ghat",
+    "category": "attraction",
+    "city": "Udaipur",
+    "lat": 24.5836979,
+    "lon": 73.6826368,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12424701805",
+      "osm_id": "node/12424701805"
+    }
+  },
+  {
+    "id": "osm_node_12424701806",
+    "name": "Nothing Before Coffee",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.5818756,
+    "lon": 73.6818015,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12424701806",
+      "osm_id": "node/12424701806"
+    }
+  },
+  {
+    "id": "osm_node_12424701820",
+    "name": "Old Legacy",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5797982,
+    "lon": 73.6838397,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12424701820",
+      "osm_id": "node/12424701820"
+    }
+  },
+  {
+    "id": "osm_node_12424701821",
+    "name": "Marwadi Bhojnalya",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5799099,
+    "lon": 73.6836393,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12424701821",
+      "osm_id": "node/12424701821"
+    }
+  },
+  {
+    "id": "osm_node_12424701822",
+    "name": "Brew Villa",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.5801267,
+    "lon": 73.682575,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12424701822",
+      "osm_id": "node/12424701822"
+    }
+  },
+  {
+    "id": "osm_node_12424703308",
+    "name": "cafe RA",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5799088,
+    "lon": 73.6836798,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12424703308",
+      "osm_id": "node/12424703308"
+    }
+  },
+  {
+    "id": "osm_node_12424703309",
+    "name": "Wind View",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.5801133,
+    "lon": 73.6830523,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12424703309",
+      "osm_id": "node/12424703309"
+    }
+  },
+  {
+    "id": "osm_node_12424703311",
+    "name": "Boho",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.5800854,
+    "lon": 73.6823559,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12424703311",
+      "osm_id": "node/12424703311"
+    }
+  },
+  {
+    "id": "osm_node_12424703316",
+    "name": "Spicy Vibes",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5754663,
+    "lon": 73.6918435,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12424703316",
+      "osm_id": "node/12424703316"
+    }
+  },
+  {
+    "id": "osm_node_12424704623",
+    "name": "Rose Garden",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.575582,
+    "lon": 73.6950681,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12424704623",
+      "osm_id": "node/12424704623"
+    }
+  },
+  {
+    "id": "osm_node_12430934001",
+    "name": "Balaji Foods",
+    "category": "street_food",
+    "city": "Udaipur",
+    "lat": 24.5737676,
+    "lon": 73.6877088,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12430934001",
+      "osm_id": "node/12430934001"
+    }
+  },
+  {
+    "id": "osm_node_12430934002",
+    "name": "Blue Box Coffee",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.5739611,
+    "lon": 73.6862322,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12430934002",
+      "osm_id": "node/12430934002"
+    }
+  },
+  {
+    "id": "osm_node_12430934105",
+    "name": "omelette",
+    "category": "street_food",
+    "city": "Udaipur",
+    "lat": 24.5807664,
+    "lon": 73.6822644,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12430934105",
+      "osm_id": "node/12430934105"
+    }
+  },
+  {
+    "id": "osm_node_12430934303",
+    "name": "Shree Mateshwari",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5813686,
+    "lon": 73.6823758,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12430934303",
+      "osm_id": "node/12430934303"
+    }
+  },
+  {
+    "id": "osm_node_12444672801",
+    "name": "Shiv Shakti",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5775184,
+    "lon": 73.6987814,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12444672801",
+      "osm_id": "node/12444672801"
+    }
+  },
+  {
+    "id": "osm_node_12444672901",
+    "name": "The Tummy's",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5779473,
+    "lon": 73.6976903,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12444672901",
+      "osm_id": "node/12444672901"
+    }
+  },
+  {
+    "id": "osm_node_12444672902",
+    "name": "Shawarma King",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5781151,
+    "lon": 73.6971796,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12444672902",
+      "osm_id": "node/12444672902"
+    }
+  },
+  {
+    "id": "osm_node_12445638904",
+    "name": "Meera",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5848162,
+    "lon": 73.6954026,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12445638904",
+      "osm_id": "node/12445638904"
+    }
+  },
+  {
+    "id": "osm_node_12445638905",
+    "name": "Daya",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5848629,
+    "lon": 73.6953643,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12445638905",
+      "osm_id": "node/12445638905"
+    }
+  },
+  {
+    "id": "osm_node_12445661404",
+    "name": "Bandwal",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5843211,
+    "lon": 73.6958648,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12445661404",
+      "osm_id": "node/12445661404"
+    }
+  },
+  {
+    "id": "osm_node_12508956701",
+    "name": "Marwadi Bhojnalaya",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5798524,
+    "lon": 73.6837607,
+    "opening_hours": "Mo-Su 10:00-23:30",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12508956701",
+      "osm_id": "node/12508956701"
+    }
+  },
+  {
+    "id": "osm_node_12523086901",
+    "name": "Utopia",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5791206,
+    "lon": 73.6788182,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12523086901",
+      "osm_id": "node/12523086901"
+    }
+  },
+  {
+    "id": "osm_node_12596158936",
+    "name": "shree charan kamal bhojnalay",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5583481,
+    "lon": 73.7227918,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12596158936",
+      "osm_id": "node/12596158936"
+    }
+  },
+  {
+    "id": "osm_node_12596181443",
+    "name": "i love wow chinese",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5592476,
+    "lon": 73.7218923,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12596181443",
+      "osm_id": "node/12596181443"
+    }
+  },
+  {
+    "id": "osm_node_12596207155",
+    "name": "Domino's",
+    "category": "street_food",
+    "city": "Udaipur",
+    "lat": 24.5585277,
+    "lon": 73.7162739,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12596207155",
+      "osm_id": "node/12596207155"
+    }
+  },
+  {
+    "id": "osm_node_12643344701",
+    "name": "Street food",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5853498,
+    "lon": 73.6862331,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12643344701",
+      "osm_id": "node/12643344701"
+    }
+  },
+  {
+    "id": "osm_node_12827920901",
+    "name": "Shree Manshapurna Mahadev Mata Baan Devi Mandir",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5794659,
+    "lon": 73.6943277,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/12827920901",
+      "osm_id": "node/12827920901"
+    }
+  },
+  {
+    "id": "osm_node_13123587126",
+    "name": "The Bake Affair",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.6028258,
+    "lon": 73.6881112,
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/13123587126",
+      "osm_id": "node/13123587126"
+    }
+  },
+  {
+    "id": "osm_node_13284476001",
+    "name": "Backyard Cafe",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.5824346,
+    "lon": 73.6810637,
+    "opening_hours": "Mo-Su 09:00-22:00",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/13284476001",
+      "osm_id": "node/13284476001"
+    }
+  },
+  {
+    "id": "osm_node_13287207101",
+    "name": "Tatya Cafe & Restaurant",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5803722,
+    "lon": 73.6799955,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/13287207101",
+      "osm_id": "node/13287207101"
+    }
+  },
+  {
+    "id": "osm_node_13353874323",
+    "name": "Kool Korner Kaffe",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5810451,
+    "lon": 73.6802816,
+    "opening_hours": "Mo-Su 07:30-23:30",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/13353874323",
+      "osm_id": "node/13353874323"
+    }
+  },
+  {
+    "id": "osm_node_13526200343",
+    "name": "Gazab Gulfi",
+    "category": "cafe",
+    "city": "Udaipur",
+    "lat": 24.5736166,
+    "lon": 73.7153783,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 60,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/13526200343",
+      "osm_id": "node/13526200343"
+    }
+  },
+  {
+    "id": "osm_node_13566189279",
+    "name": "Singh Food Plaza",
+    "category": "street_food",
+    "city": "Udaipur",
+    "lat": 24.5820472,
+    "lon": 73.7214609,
+    "opening_hours": "Mo-Su,PH 13:30-22:15",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/node/13566189279",
+      "osm_id": "node/13566189279"
+    }
+  },
+  {
+    "id": "osm_way_108776755",
+    "name": "Nerhu Island Park",
+    "category": "attraction",
+    "city": "Udaipur",
+    "lat": 24.5962515,
+    "lon": 73.6733955,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/108776755",
+      "osm_id": "way/108776755"
+    }
+  },
+  {
+    "id": "osm_way_108781864",
+    "name": "Saheliyon-Ki-Bari",
+    "category": "attraction",
+    "city": "Udaipur",
+    "lat": 24.60305,
+    "lon": 73.6854857,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/108781864",
+      "osm_id": "way/108781864"
+    }
+  },
+  {
+    "id": "osm_way_111321620",
+    "name": "Jagdish Mandir",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.579616,
+    "lon": 73.683703,
+    "opening_hours": "week 08-36 05:00-14:30,16:00-22:30 unknown \"Listed as summer timings; not sure which months this covers.\"; week 37-07 05:30-14:30,16:00-22:00 unknown \"Listed as winter timings; not sure which months this covers.\"",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/111321620",
+      "osm_id": "way/111321620"
+    }
+  },
+  {
+    "id": "osm_way_111334933",
+    "name": "Sajjan Garh - Monsoon Palace",
+    "category": "attraction",
+    "city": "Udaipur",
+    "lat": 24.5931974,
+    "lon": 73.6394582,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/111334933",
+      "osm_id": "way/111334933"
+    }
+  },
+  {
+    "id": "osm_way_289198548",
+    "name": "Jagat Shiromani",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5787475,
+    "lon": 73.6834528,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/289198548",
+      "osm_id": "way/289198548"
+    }
+  },
+  {
+    "id": "osm_way_395303076",
+    "name": "Sayyedi Luqmanji Saheb Dargah",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5838102,
+    "lon": 73.6889054,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/395303076",
+      "osm_id": "way/395303076"
+    }
+  },
+  {
+    "id": "osm_way_395303078",
+    "name": "Moyyedpura Masjid",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5844031,
+    "lon": 73.6883265,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/395303078",
+      "osm_id": "way/395303078"
+    }
+  },
+  {
+    "id": "osm_way_519234909",
+    "name": "Rajiv Gandhi Garden",
+    "category": "attraction",
+    "city": "Udaipur",
+    "lat": 24.59709,
+    "lon": 73.6609788,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/519234909",
+      "osm_id": "way/519234909"
+    }
+  },
+  {
+    "id": "osm_way_519481946",
+    "name": "Ambavgarh Dargah & Masjid",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5894093,
+    "lon": 73.6809101,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/519481946",
+      "osm_id": "way/519481946"
+    }
+  },
+  {
+    "id": "osm_way_519858834",
+    "name": "Madina Masjid",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5869338,
+    "lon": 73.7129524,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/519858834",
+      "osm_id": "way/519858834"
+    }
+  },
+  {
+    "id": "osm_way_519868381",
+    "name": "Gurudwara Sach Khand Darbar, Udaipur",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5791524,
+    "lon": 73.7085785,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/519868381",
+      "osm_id": "way/519868381"
+    }
+  },
+  {
+    "id": "osm_way_549681024",
+    "name": "Mahakaleshwar Mandir",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5904609,
+    "lon": 73.6747719,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/549681024",
+      "osm_id": "way/549681024"
+    }
+  },
+  {
+    "id": "osm_way_570844821",
+    "name": "Mastan Baba Dargah and Masjid",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5884801,
+    "lon": 73.6614738,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/570844821",
+      "osm_id": "way/570844821"
+    }
+  },
+  {
+    "id": "osm_way_758366879",
+    "name": "Navlakha Hanuman Mandir",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5733432,
+    "lon": 73.6918928,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/758366879",
+      "osm_id": "way/758366879"
+    }
+  },
+  {
+    "id": "osm_way_758366880",
+    "name": "Mahadev Mandir",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5729173,
+    "lon": 73.6919659,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/758366880",
+      "osm_id": "way/758366880"
+    }
+  },
+  {
+    "id": "osm_way_963983411",
+    "name": "Mahakaleshwar Temple",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.559106,
+    "lon": 73.6955737,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/963983411",
+      "osm_id": "way/963983411"
+    }
+  },
+  {
+    "id": "osm_way_963983428",
+    "name": "Ram Mandir",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5558283,
+    "lon": 73.6952458,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/963983428",
+      "osm_id": "way/963983428"
+    }
+  },
+  {
+    "id": "osm_way_1350396496",
+    "name": "Udaipol",
+    "category": "heritage",
+    "city": "Udaipur",
+    "lat": 24.5761055,
+    "lon": 73.699304,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/1350396496",
+      "osm_id": "way/1350396496"
+    }
+  },
+  {
+    "id": "osm_way_1350440039",
+    "name": "Delhi Gate",
+    "category": "heritage",
+    "city": "Udaipur",
+    "lat": 24.5853744,
+    "lon": 73.6950442,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/1350440039",
+      "osm_id": "way/1350440039"
+    }
+  },
+  {
+    "id": "osm_way_1350440050",
+    "name": "Suraj Pol (Sun Gate)",
+    "category": "heritage",
+    "city": "Udaipur",
+    "lat": 24.5794754,
+    "lon": 73.6960841,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/1350440050",
+      "osm_id": "way/1350440050"
+    }
+  },
+  {
+    "id": "osm_way_1360414109",
+    "name": "jagmandir palace",
+    "category": "heritage",
+    "city": "Udaipur",
+    "lat": 24.5675835,
+    "lon": 73.6780685,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 120,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/1360414109",
+      "osm_id": "way/1360414109"
+    }
+  },
+  {
+    "id": "osm_way_1360631349",
+    "name": "omkareshwarya temple",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5693257,
+    "lon": 73.7360281,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/1360631349",
+      "osm_id": "way/1360631349"
+    }
+  },
+  {
+    "id": "osm_way_1360632678",
+    "name": "pashupati nath temple",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5699997,
+    "lon": 73.7330884,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/1360632678",
+      "osm_id": "way/1360632678"
+    }
+  },
+  {
+    "id": "osm_way_1360636501",
+    "name": "bheruji bhavji ka devra",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5699518,
+    "lon": 73.731441,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/1360636501",
+      "osm_id": "way/1360636501"
+    }
+  },
+  {
+    "id": "osm_way_1360637962",
+    "name": "shiv mandir",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5724153,
+    "lon": 73.7290561,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/1360637962",
+      "osm_id": "way/1360637962"
+    }
+  },
+  {
+    "id": "osm_way_1360643191",
+    "name": "mangleshwar mahadev mandir",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5657342,
+    "lon": 73.7254583,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/1360643191",
+      "osm_id": "way/1360643191"
+    }
+  },
+  {
+    "id": "osm_way_1360645147",
+    "name": "shiv temple",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5644861,
+    "lon": 73.73087,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/1360645147",
+      "osm_id": "way/1360645147"
+    }
+  },
+  {
+    "id": "osm_way_1360645375",
+    "name": "mateshwari 2 restaurant",
+    "category": "restaurant",
+    "city": "Udaipur",
+    "lat": 24.5628503,
+    "lon": 73.7294022,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/1360645375",
+      "osm_id": "way/1360645375"
+    }
+  },
+  {
+    "id": "osm_way_1360683150",
+    "name": "sai baba temple",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5593445,
+    "lon": 73.7233312,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/1360683150",
+      "osm_id": "way/1360683150"
+    }
+  },
+  {
+    "id": "osm_way_1360686515",
+    "name": "hanuman mandir",
+    "category": "temple",
+    "city": "Udaipur",
+    "lat": 24.5602757,
+    "lon": 73.717632,
+    "opening_hours": "unknown",
+    "avg_visit_duration_minutes": 45,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/1360686515",
+      "osm_id": "way/1360686515"
+    }
+  },
+  {
+    "id": "osm_way_1481315955",
+    "name": "Pratap Gaurav Kendra Rashtriya Tirth",
+    "category": "museum",
+    "city": "Udaipur",
+    "lat": 24.6252811,
+    "lon": 73.6715656,
+    "opening_hours": "Mo-Su 09:30-18:00",
+    "avg_visit_duration_minutes": 90,
+    "source": {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/way/1481315955",
+      "osm_id": "way/1481315955"
+    }
+  }
+]
